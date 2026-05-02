@@ -1,7 +1,7 @@
 {
   "version": 1,
   "features": {
-    "skip_otp": false
+    "skip_otp": true
   }
   
 }
